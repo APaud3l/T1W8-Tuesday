@@ -11,7 +11,9 @@
 - Achieved by using Abstract class and method.
 
 ### Abstraction Class and Method
--
+- Abstract class is a class that cannot be instantiated and usually contains one or more abstract methods.
+- Abstract method is a method that is declared, but contains no implementation.
+- Python 'abc' module is required to create these classes and methods.
 
 
 ## Inheritance
